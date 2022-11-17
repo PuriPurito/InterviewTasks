@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class task2 {
+public class Task2 {
     public static void main(String[] args) throws IOException {
         FileReader file1 = new FileReader(args[0]);
         FileReader file2 = new FileReader(args[1]);

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) throws IOException {
         FileReader file = new FileReader(args[0]);
         Scanner scan = new Scanner(file);
